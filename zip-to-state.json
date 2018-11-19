@@ -1,4 +1,4 @@
-'{
+{
     "60101" : {"city":"Addison","state": "IL"},
     "60102" : {"city":"Algonquin,"state": "IL"},
     "60103" : {"city":"Bartlett,"state": "IL"},
@@ -88,4 +88,4 @@
     "60195" : {"city":"Schaumburg","state": "IL"},
     "60196" : {"city":"Schaumburg","state": "IL"},
     "60197" : {"city":"Carol Stream", "state": "IL"}
-}'
+}
